@@ -23,4 +23,12 @@ This is a subheader
 
 more text text text
 
-<img src="../img/test.png" />
+<img src="/img/test.png" />
+
+second image attempt
+
+![is this an image](/img/test.png)
+
+
+okay that's enough for now
+
