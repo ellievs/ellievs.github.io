@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the personal website of Eliza Schultz.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I write long-form analysis of current events and historical topics. While I do my best to present factual information, I am not neutral. I am a union worker and a Marxist-Leninist. My research and writing here is not for abstract scholarship but to provide useful information in the struggle to defeat capitalism and all oppression, and ultimately to bring about freedom and socialism.
