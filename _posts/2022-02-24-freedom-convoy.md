@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Freedom Convoy 2022"
 date:   Thu 2022-02-24 15:41:52-0600
 ---
@@ -38,7 +38,7 @@ Following the 2019 election the ruling Liberal Party won a plurality of seats al
 Driving separatism is the perception of political and economic favoritism shown toward the eastern provinces, known as “western alienation.” This can be demonstrated through the conflict between the western provinces and the eastern-dominated federal government over natural resources, particularly of the large reserves of oil and gas in the west.
 
 <p align="center">
-  <a href="img/convoy/oil-sands-map.png"><img height="600" src="/img/convoy/oil-sands-map.png" /></a>
+    <a href="/img/convoy/oil-sands-map.png"><img src="/img/convoy/oil-sands-map.png" style="height: 600px" /></a>
 </p>
 
 Originally home to a relatively poor agriculture-based economy, Alberta was suddenly transformed following the [discovery][leduc-discovery] of major crude oil reserves at Leduc, Alberta in 1947. This led to a significant oil boom in the western provinces as companies invested great sums to explore and begin extraction of this valuable resource. Notable was the discovery of massive [oil sands][oil-sands-info] deposits, a mixture of sand, water and heavy bitumen oil that can be expensive to extract and process. At an estimated 165.4 billion barrels of accessible crude oil, Alberta contains the fourth largest deposit in the world and is currently the [largest single source][us-energy-sources] of US energy inputs. This western-based Canadian oil and gas industry employs about 160,000 people and contributes about $100 billion to Canada’s GDP, making it central to the country’s economy.
@@ -173,6 +173,6 @@ With the support of Trudeau Liberal Party and the NDP, use of the Emergencies Ac
 
 The Freedom Convoy emerged out of an existing movement which has been organizing opposition to Trudeau from the right for years. This far-right is based on a pro-corporate agenda of cutting taxes and reduced federal power, support for the western oil and gas industry, and social conservativism concerned with preservation of "western culture" against LGBT ideology and immigration. While there can be tension between different camps, there is significant overlap and unity tends to prevail. In the coming period it appears that this movement will be able to stay united around a Conservative Party led by MP Poillievre.
 
-The convoy did not raise any basic demands of the working class. To the extent that workers participated in the movement, they did not do so as workers, but as reactionaries. Furthermore, many of the truckers able to participate in the occupation and blockades would have been self-employed owner-operators, who support a pro-business politics that would harm the interests of most workers.
+Some commentators have characterized the protest as "working class" and "anti-capitalist". However, it is clear that the convoy movement did not raise any basic demands of the working class. To the extent that workers participated in the movement, they did not do so consciously as workers. Furthermore, many of the truckers able to participate in the occupation and blockades were self-employed owner-operators, supporters of a pro-business politics that would harm the interests of most workers.
 
-While the Canadian state would ultimately use force to reopen their trade routes and their capital, the first several weeks were marked by very little action. Repression was used hesitantly and with extreme caution, unlike the attacks on indigenous protesters and supporters in 2020. However, the invocation of federal emergency powers does set a dangerous precedent for the future curtailment of democratic rights, which will be used more firmly against movements of the working class and oppressed.
+While the Canadian state would ultimately use force to reopen their trade routes and their capital, the first several weeks were marked by very little action. Repression was used hesitantly and with extreme caution, unlike the attacks on indigenous protesters and supporters in 2020. However, the invocation of federal emergency powers does set a new precedent and the Canadian state could use the convoy as justification for the future curtailment of democratic rights, which would be used most firmly against movements of the working class and oppressed.
