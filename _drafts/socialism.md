@@ -4,7 +4,7 @@ title:  socialism
 date:   2022-04-05 07:13:50 -0500
 ---
 
-# Preface (optional)
+# Preface
 My approach is based on the idea of historical materialism that I read from Marx. What he sought to do was to demonstrate how the ideas of his society were actually the necessary ideas which emerged from a particular economic order. Explaining this idea in detail is out of scope for this paper but this famous quote from Marx's 1859 Preface to A Critique of Political Economy serves as a commonly accepted concise summation of the concept.
 
 > "In the social production of their existence, men inevitably enter into definite relations, which are independent of their will, namely relations of production appropriate to a given stage in the development of their material forces of production. The totality of these relations of production constitutes the economic structure of society, the real foundation, on which arises a legal and political superstructure and to which correspond definite forms of social consciousness. The mode of production of material life conditions the general process of social, political and intellectual life. It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness. At a certain stage of development, the material productive forces of society come into conflict with the existing relations of production or – this merely expresses the same thing in legal terms – with the property relations within the framework of which they have operated hitherto. From forms of development of the productive forces these relations turn into their fetters. Then begins an era of social revolution. The changes in the economic foundation lead sooner or later to the transformation of the whole immense superstructure."
@@ -19,13 +19,13 @@ While I can't do a thorough discussion of capital here, we do need to discuss th
 
 By the time we arrive in the 20th century, capital had taken a unique shape, what we might refer to as monopoly capitalism or modern imperialism depending on what elements you want to emphasize. What's particular is that the centers of capitalism became powerful enough to dominate the economy and politics of most countries on the periphery. This consolidated the global division between the most and least developed countries to a group of great powers and their colonies. In 1884 Africa was partitioned up at the Conference of Berlin. In US History we usually think of the Spanish-American War in 1898 as the moment when this really happens.
 
-With the emergence of imperialism the brewing class conflict in the imperialist countries reached a fever pitch, as worker militancy surged and socialist parties exploded in size. the history of this is complex but mostly this was resolved by capitalism through a series of compromises with labor that ultimately resolved in pacifying the revolutionary edge of this movement (despite attempts to opt for outright extermination in italy, germany, spain etc)
+With the emergence of imperialism the brewing class conflict in the imperialist countries reached a fever pitch, as worker militancy surged and socialist parties exploded in size. The history of this is complex but mostly this was resolved by capitalism through a series of compromises with labor that ultimately resolved in pacifying the revolutionary edge of this movement (despite attempts to opt for outright extermination in Italy, Germany, Spain etc)
 
-this is the nature of the personal freedom enjoyed in the west, which is mostly a freedom of the consumer within the market
+The basis of personal freedom that exists in the West was mostly won in these battles, although essentially it is the freedom of the consumer within the market.
 
 
 # Socialism
-Socialism did emerge in the Russian empire, which was either the least developed core country or the most developed peripheral country depending on how you look at it. the history of soviet strategy over the 20th century as well as an evaluation of their socialist experiments at home are beyond what i can get into right now
+Socialism did successfully emerge in the Russian empire, unique in being the least developed of the core country. the history of soviet strategy over the 20th century as well as an evaluation of their socialist experiments at home are beyond what i can get into right now
 
 One important aspect was the recognition of anti-colonial/anti-imperialist struggle as a primary way to strike blows at capitalism by depriving the primary capitalist centers of their colonies
 
